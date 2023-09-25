@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Dabby. I build the back-end of web applications with Node.js, Nest,js or Golang. I also use python for algorithm problems. 
 - 💞️ I’m looking to collaborate on open-source projects that would have a high impact in the nearest future.
 - I love to build solutions to real-life problems with code.
-- 📫 You can reach me via mail at emezued@gmail.com, Whatsapp +2348181800964 or calls +2347038072496
